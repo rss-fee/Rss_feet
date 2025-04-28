@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>اخبار سلامت</title>
+    <description>تازه‌ترین رویدادهای دنیای سلامت</description>
+    <link>https://newsroom.tebna.ir/home.xhtml</link>
+    <language>fa-ir</language>
+
+    <item>
+      <title>تاثیر خواب بر سلامت قلب</title>
+      <link>https://tebna.ir/news/1234</link>
+      <description>مطالعه‌ای جدید نشان می‌دهد خواب کافی نقش مهمی در سلامت قلب دارد.</description>
+      <pubDate>Sat, 26 Apr 2025 20:00:00 +0430</pubDate>
+    </item>
+
+    <item>
+      <title>واکسن جدید آنفلوآنزا معرفی شد</title>
+      <link>https://tebna.ir/news/5678</link>
+      <description>واکسن جدیدی برای مقابله با سویه‌های مختلف آنفلوآنزا معرفی شد.</description>
+      <pubDate>Sat, 26 Apr 2025 20:05:00 +0430</pubDate>
+    </item>
+
+    <item>
+      <title>راهکارهای کاهش استرس روزانه</title>
+      <link>https://tebna.ir/news/9101</link>
+      <description>با روش‌های ساده می‌توان استرس روزمره را مدیریت کرد و کیفیت زندگی را بهبود بخشید.</description>
+      <pubDate>Sat, 26 Apr 2025 20:10:00 +0430</pubDate>
+    </item>
+
+  </channel>
+</rss>
